@@ -1,8 +1,8 @@
-<div align="center">
-
+<div>
 #### Just Engineering and Content; Big Deal?
 
 ### Skills: Go, Rust, Backend Engineering, Docs, Go-Ethereum e.t.c.
+
 </div>
 
 - 🔭 I’m currently working on Golang and Rust apps.
@@ -17,7 +17,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/goodnessuc)
 
 </div>
-  <p align = "center">
+  <p>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goodnessuc&layout=compact&show_icons=true&theme=tokyonight" />
 
