@@ -1,8 +1,8 @@
 <div align="center">
 
-#### I try to write code 💻 and solve problems.
+#### Just Engineering and Content; Big Deal?
 
-### Skills: Go, Rust, Dune, Docusaurus, Go-Ethereum e.t.c.
+### Skills: Go, Rust, Backend Engineering, Docs, Go-Ethereum e.t.c.
 </div>
 
 - 🔭 I’m currently working on Golang and Rust apps.
