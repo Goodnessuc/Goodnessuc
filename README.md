@@ -1,7 +1,8 @@
 <div>
-#### Just Engineering and Content; Big Deal?
 
-### Skills: Go, Rust, Backend Engineering, Docs, Go-Ethereum e.t.c.
+### Just Engineering and Content; Big Deal?
+
+#### Skills: Go, Rust, Backend Engineering, Docs, Go-Ethereum e.t.c.
 
 </div>
 
