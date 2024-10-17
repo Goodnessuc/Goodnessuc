@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 I’m currently working on Golang and Rust apps.
-- 🌱 I’m currently learning Ethereum, Cosmos-SDK & DevOps.
+- 🌱 I’m currently learning Ethereum, Move & Cryptography.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [ukejegoodness599@gmail.com](mailto:ukejegoodness599@gmail.com)
 - 😄 Pronouns: He/Him
