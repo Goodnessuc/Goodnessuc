@@ -6,8 +6,7 @@ As a technical writer for various organizations and publications, including LogR
 
 ## What I'm currently interested in
 
-I'm interested in working on open-source developer tooling and optimizing the developer experience via the tools/libraries they use daily.
-
+I'm interested in working on open-source developer tooling and optimizing the developer experience via the tools/libraries they use daily. Learn more about me [here](https://goodylili.github.io/about)
 ## Useful Links
 
 - [Personal website](https://www.goodylili.github.io/)
