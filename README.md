@@ -1,22 +1,18 @@
-<div>
+## Hello 👋🏾
 
-### Just Engineering and Content; Big Deal?
+I am Ukeje Goodness, a Software Engineer and Technical writer. I love to build efficient scalable services and nd share knowledge acquired from the process.
 
-#### Skills: Go, Rust, Backend Engineering, Docs, Go-Ethereum e.t.c.
+As a technical writer for various organizations and publications, including LogRocket, DigitalOcean, Axelar Network and many others.
 
-</div>
+## What I'm currently interested in
 
-- 🔭 I’m currently working on Golang and Rust apps.
-- 🌱 I’m currently learning Ethereum, Move & Cryptography.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [ukejegoodness599@gmail.com](mailto:ukejegoodness599@gmail.com)
-- 😄 Pronouns: He/Him
+I'm interested in working on open-source developer tooling and optimizing the developer experience via the tools/libraries they use daily.
 
-<div align="center">
+## Useful Links
 
-</div>
-  <p>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodylili&layout=compact&show_icons=true&theme=tokyonight" />
-
-</p> 
+- [Personal website](https://www.goodylili.github.io/)
+- [Crypto Newsletter](https://goodylili.substack.com/)
+- [Linkedin](https://www.linkedin.com/in/goodylili)
+- [Twitter](https://www.twitter.com/goodylili)
+- [MakeUseOf](https://www.makeuseof.com/author/ukejechukwuemeriwo-goodness/)
+- [Logrocket](https://blog.logrocket.com/author/ukejegoodness/)
