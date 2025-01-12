@@ -1,8 +1,8 @@
 ## Hello 👋🏾
 
-I am Ukeje Goodness, a Software Engineer and Technical writer. I love to build efficient scalable services and share knowledge acquired from the process.
+I am Ukeje Goodness, a Software Engineer and Technical writer. I love to build efficient, scalable services and share knowledge acquired from the process.
 
-As a technical writer for various organizations and publications, including LogRocket, DigitalOcean, Axelar Network and many others.
+I've contributed to documenting large open-source projects like Canonical, Cosmos SDK, IBC Protocol, Sui Foundation, etc., and worked as a technical writer for various organizations and publications, including LogRocket, DigitalOcean, Axelar Network, and many others.
 
 ## What I'm currently interested in
 
